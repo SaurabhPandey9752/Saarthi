@@ -390,10 +390,10 @@ const Home = () => {
 									color: 'yellow',
 								}}
 							>
-								About On The Way
+								About Saarthi
 							</h3>
 							<p>
-								At On The Way, we provide an online counseling and emotional
+								At Saarthi, we provide an online counseling and emotional
 								support platform designed to foster mental wellness. It
 								anonymously connects you with the right expert from our panel
 								consisting of psychologists, psychotherapists, counselors, life

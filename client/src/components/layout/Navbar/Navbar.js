@@ -80,7 +80,7 @@ const Navbar = () => {
 						height='40'
 						className='d-inline-block align-text-center'
 					/>
-					<span style={{ paddingTop: '0.3rem' }}>On The Way</span>
+					<span style={{ paddingTop: '0.3rem' }}>Saarthi</span>
 				</Link>
 				<button
 					className='navbar-toggler'
